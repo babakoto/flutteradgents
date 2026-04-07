@@ -1,6 +1,6 @@
 name: flutteradgents
 description: Flutteradgents is a tool for testers and QA teams that, directly within the project, lets them log into Jira, capture and annotate screenshots, and quickly create and assign bug tickets with all the necessary technical details included.
-version: 0.1.2
+version: 0.1.3
 repository: https://github.com/babakoto/flutteradgents
 documentation: https://github.com/babakoto/flutteradgents/blob/main/README.md
 issue_tracker: https://github.com/babakoto/flutteradgents/issues
