@@ -1,8 +1,8 @@
 // ignore_for_file: public_member_api_docs
 
-import 'package:feedback/src/better_feedback.dart';
-import 'package:feedback/src/theme/feedback_theme.dart';
-import 'package:feedback/src/utilities/back_button_interceptor.dart';
+import 'package:flutteradgents_feedback/src/better_feedback.dart';
+import 'package:flutteradgents_feedback/src/theme/feedback_theme.dart';
+import 'package:flutteradgents_feedback/src/utilities/back_button_interceptor.dart';
 import 'package:flutter/material.dart';
 
 /// Shows the text input in which the user can describe his feedback.

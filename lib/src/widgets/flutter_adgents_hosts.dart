@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:dio/dio.dart';
-import 'package:feedback/feedback.dart';
+import 'package:flutteradgents_feedback/flutteradgents_feedback.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutteradgents/src/config/flutter_adgents_settings.dart';

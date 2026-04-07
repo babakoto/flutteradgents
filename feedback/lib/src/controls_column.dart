@@ -1,8 +1,8 @@
 // ignore_for_file: public_member_api_docs
 
-import 'package:feedback/src/feedback_mode.dart';
-import 'package:feedback/src/l18n/translation.dart';
-import 'package:feedback/src/theme/feedback_theme.dart';
+import 'package:flutteradgents_feedback/src/feedback_mode.dart';
+import 'package:flutteradgents_feedback/src/l18n/translation.dart';
+import 'package:flutteradgents_feedback/src/theme/feedback_theme.dart';
 import 'package:flutter/material.dart';
 
 /// This is the Widget on the right side of the app when the feedback view

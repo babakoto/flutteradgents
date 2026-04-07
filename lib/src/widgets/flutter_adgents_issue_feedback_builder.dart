@@ -1,8 +1,8 @@
 import 'dart:async';
 
-import 'package:feedback/feedback.dart';
-// ignore: implementation_imports — `FeedbackTheme` n’est pas exporté par package:feedback.
-import 'package:feedback/src/theme/feedback_theme.dart' show FeedbackTheme;
+import 'package:flutteradgents_feedback/flutteradgents_feedback.dart';
+// ignore: implementation_imports — `FeedbackTheme` n’est pas exporté par package:flutteradgents_feedback.
+import 'package:flutteradgents_feedback/src/theme/feedback_theme.dart' show FeedbackTheme;
 import 'package:flutter/material.dart';
 import 'package:flutteradgents/src/api/flutter_adgents_api_exception.dart';
 import 'package:flutteradgents/src/api/issue_feedback_fields.dart';

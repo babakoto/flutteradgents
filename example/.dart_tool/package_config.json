@@ -194,6 +194,12 @@
       "languageVersion": "3.9"
     },
     {
+      "name": "flutteradgents",
+      "rootUri": "../../",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
       "name": "flutteradgents_feedback",
       "rootUri": "file:///Users/etokiniaina/.pub-cache/hosted/pub.dev/flutteradgents_feedback-3.2.0+flutteradgents.2",
       "packageUri": "lib/",
@@ -518,7 +524,7 @@
       "languageVersion": "3.4"
     },
     {
-      "name": "flutteradgents",
+      "name": "flutteradgents_example",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.5"

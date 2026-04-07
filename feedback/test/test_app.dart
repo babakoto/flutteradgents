@@ -1,4 +1,4 @@
-import 'package:feedback/feedback.dart';
+import 'package:flutteradgents_feedback/flutteradgents_feedback.dart';
 import 'package:flutter/material.dart';
 
 class MyTestApp extends StatelessWidget {

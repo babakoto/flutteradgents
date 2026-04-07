@@ -1,13 +1,13 @@
 import 'dart:async';
 
-import 'package:feedback/feedback.dart';
-import 'package:feedback/src/debug.dart';
-import 'package:feedback/src/feedback_builder/string_feedback.dart';
-import 'package:feedback/src/feedback_data.dart';
-import 'package:feedback/src/feedback_widget.dart';
-import 'package:feedback/src/theme/feedback_theme.dart';
-import 'package:feedback/src/utilities/feedback_app.dart';
-import 'package:feedback/src/utilities/renderer/renderer.dart';
+import 'package:flutteradgents_feedback/flutteradgents_feedback.dart';
+import 'package:flutteradgents_feedback/src/debug.dart';
+import 'package:flutteradgents_feedback/src/feedback_builder/string_feedback.dart';
+import 'package:flutteradgents_feedback/src/feedback_data.dart';
+import 'package:flutteradgents_feedback/src/feedback_widget.dart';
+import 'package:flutteradgents_feedback/src/theme/feedback_theme.dart';
+import 'package:flutteradgents_feedback/src/utilities/feedback_app.dart';
+import 'package:flutteradgents_feedback/src/utilities/renderer/renderer.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

@@ -1,4 +1,4 @@
-import 'package:feedback/src/utilities/back_button_interceptor.dart';
+import 'package:flutteradgents_feedback/src/utilities/back_button_interceptor.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

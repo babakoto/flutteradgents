@@ -1,5 +1,5 @@
 import 'dart:typed_data';
-import 'package:feedback/src/better_feedback.dart';
+import 'package:flutteradgents_feedback/src/better_feedback.dart';
 
 /// Container for the feedback of the user.
 class UserFeedback {

@@ -1,6 +1,6 @@
-import 'package:feedback/src/controls_column.dart';
-import 'package:feedback/src/feedback_mode.dart';
-import 'package:feedback/src/l18n/localization.dart';
+import 'package:flutteradgents_feedback/src/controls_column.dart';
+import 'package:flutteradgents_feedback/src/feedback_mode.dart';
+import 'package:flutteradgents_feedback/src/l18n/localization.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter/material.dart';
 

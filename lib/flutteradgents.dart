@@ -1,5 +1,5 @@
 // Package flutteradgents : capture type « feedback » + envoi vers l’API (auth + issues).
-export 'package:feedback/feedback.dart'
+export 'package:flutteradgents_feedback/flutteradgents_feedback.dart'
     show
         BetterFeedback,
         FeedbackBuilder,

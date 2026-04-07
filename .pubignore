@@ -1,0 +1,5 @@
+.dart_tool/
+.idea/
+build/
+# Source of `flutteradgents_feedback` (published separately); keep out of this tarball.
+feedback/

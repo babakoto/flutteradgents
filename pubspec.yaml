@@ -1,7 +1,20 @@
 name: flutteradgents
 description: Flutteradgents is a tool for testers and QA teams that, directly within the project, lets them log into Jira, capture and annotate screenshots, and quickly create and assign bug tickets with all the necessary technical details included.
 version: 0.1.0
-publish_to: none
+repository: https://github.com/flutteradgents/flutteradgents
+documentation: https://github.com/flutteradgents/flutteradgents/blob/main/README.md
+issue_tracker: https://github.com/flutteradgents/flutteradgents/issues
+
+topics:
+  - flutter
+  - jira
+  - qa
+  - feedback
+  - testing
+
+screenshots:
+  - description: FlutterAdgents logo and package overview
+    path: assets/logo.png
 
 environment:
   sdk: ^3.5.0
@@ -11,8 +24,7 @@ dependencies:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
-  feedback:
-    path: feedback
+  flutteradgents_feedback: ^3.2.0+flutteradgents.2
   dio: ^5.9.2
   flutter_secure_storage: ^10.0.0
   http_parser: ^4.1.2

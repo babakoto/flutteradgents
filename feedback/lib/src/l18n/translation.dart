@@ -1,4 +1,4 @@
-import 'package:feedback/src/debug.dart';
+import 'package:flutteradgents_feedback/src/debug.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';

@@ -73,7 +73,7 @@ To show the feedback view just call `BetterFeedback.of(context).show(...);`.
 The callback gets called when the user submits his feedback. 
 
 ```dart
-import 'package:feedback/feedback.dart';
+import 'package:flutteradgents_feedback/flutteradgents_feedback.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -154,7 +154,7 @@ If you have sample code on how to upload it to a platform, I would appreciate a 
 ### 🎨 Configuration & customization
 
 ```dart
-import 'package:feedback/feedback.dart';
+import 'package:flutteradgents_feedback/flutteradgents_feedback.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 

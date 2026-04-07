@@ -1,3 +1,7 @@
+## [3.2.0+flutteradgents.2]
+
+- Published on pub.dev as **`flutteradgents_feedback`** (fork of `feedback` 3.2.0 with FlutterAdgents-specific UI extensions).
+
 ## [3.2.0]
 
 - Hebrew translations

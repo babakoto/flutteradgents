@@ -2,7 +2,7 @@
 # See https://dart.dev/tools/pub/glossary#lockfile
 packages:
   app_links:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: app_links
       sha256: "3462d9defc61565fde4944858b59bec5be2b9d5b05f20aed190adb3ad08a7abc"
@@ -98,7 +98,7 @@ packages:
     source: hosted
     version: "0.2.3"
   device_info_plus:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: device_info_plus
       sha256: b4fed1b2835da9d670d7bed7db79ae2a94b0f5ad6312268158a9b5479abbacdd
@@ -114,7 +114,7 @@ packages:
     source: hosted
     version: "7.0.3"
   dio:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: dio
       sha256: aff32c08f92787a557dd5c0145ac91536481831a01b4648136373cddb0e64f8c
@@ -167,12 +167,12 @@ packages:
     source: hosted
     version: "6.0.0"
   flutter_localizations:
-    dependency: "direct main"
+    dependency: transitive
     description: flutter
     source: sdk
     version: "0.0.0"
   flutter_secure_storage:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: flutter_secure_storage
       sha256: da922f2aab2d733db7e011a6bcc4a825b844892d4edd6df83ff156b09a9b2e40
@@ -225,7 +225,7 @@ packages:
     source: sdk
     version: "0.0.0"
   flutter_web_auth_2:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: flutter_web_auth_2
       sha256: "432ff8c7b2834eaeec3378d99e24a0210b9ac2f453b3f7a7d739a5c09069fba3"
@@ -245,8 +245,15 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutteradgents_feedback:
+  flutteradgents:
     dependency: "direct main"
+    description:
+      path: ".."
+      relative: true
+    source: path
+    version: "0.1.0"
+  flutteradgents_feedback:
+    dependency: transitive
     description:
       name: flutteradgents_feedback
       sha256: d6ec41e228caddc5f9c6583a8e7a046f5cc5cc5bf24c86bd218a9e1b5e471da7
@@ -286,7 +293,7 @@ packages:
     source: hosted
     version: "1.6.0"
   http_parser:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: http_parser
       sha256: "178d74305e7866013777bab2c3d8726205dc5a4dd935297175b19a23a2e66571"
@@ -390,7 +397,7 @@ packages:
     source: hosted
     version: "9.3.0"
   package_info_plus:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: package_info_plus
       sha256: "468c26b4254ab01979fa5e4a98cb343ea3631b9acee6f21028997419a80e1a20"
@@ -547,7 +554,7 @@ packages:
     source: hosted
     version: "1.4.0"
   url_launcher:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: url_launcher
       sha256: f6a7e5c4835bb4e3026a04793a4199ca2d14c739ec378fdfe23fc8075d0439f8

@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:feedback/feedback.dart';
+import 'package:flutteradgents_feedback/flutteradgents_feedback.dart';
 import 'package:flutteradgents/src/api/flutter_adgents_api_exception.dart';
 import 'package:flutteradgents/src/api/issue_create_result.dart';
 import 'package:flutteradgents/src/api/issue_feedback_fields.dart';

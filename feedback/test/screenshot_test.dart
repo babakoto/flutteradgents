@@ -1,6 +1,6 @@
 import 'dart:typed_data';
 
-import 'package:feedback/src/screenshot.dart';
+import 'package:flutteradgents_feedback/src/screenshot.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

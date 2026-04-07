@@ -1,6 +1,6 @@
-import 'package:feedback/src/better_feedback.dart';
-import 'package:feedback/src/l18n/translation.dart';
-import 'package:feedback/src/theme/feedback_theme.dart';
+import 'package:flutteradgents_feedback/src/better_feedback.dart';
+import 'package:flutteradgents_feedback/src/l18n/translation.dart';
+import 'package:flutteradgents_feedback/src/theme/feedback_theme.dart';
 import 'package:flutter/material.dart';
 
 /// Prompt the user for feedback using `StringFeedback`.

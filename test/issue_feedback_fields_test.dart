@@ -1,6 +1,6 @@
 import 'dart:typed_data';
 
-import 'package:feedback/feedback.dart';
+import 'package:flutteradgents_feedback/flutteradgents_feedback.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutteradgents/src/api/issue_feedback_fields.dart';
 

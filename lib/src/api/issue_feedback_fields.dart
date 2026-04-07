@@ -1,4 +1,4 @@
-import 'package:feedback/feedback.dart';
+import 'package:flutteradgents_feedback/flutteradgents_feedback.dart';
 import 'package:flutteradgents/src/api/derive_feedback_title.dart';
 
 /// Clés [UserFeedback.extra] (formulaire titre + description).
