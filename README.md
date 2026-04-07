@@ -12,8 +12,6 @@ Each generated ticket automatically includes all the essential information neede
 📌 Build version: 1.0.0  
 📲 App name: Demo
 
-![FlutterAdgents package overview](assets/logo.png)
-
 
 In your app `pubspec.yaml`:
 
