@@ -1,0 +1,60 @@
+Running `(cd /Users/etokiniaina/.pub-cache/hosted/pub.dev/objective_c-9.3.0/; TMPDIR=/var/folders/cl/tgsmb1ls6r36g2j9192_5fzm0000gp/T/ PATH=/Users/etokiniaina/.antigravity/antigravity/bin:/Users/etokiniaina/fvm/default/bin:/Users/etokiniaina/.shorebird/bin:/Users/etokiniaina/.docker/bin:/Users/etokiniaina/.nvm/versions/node/v23.6.0/bin:/opt/homebrew/opt/ruby/bin:/opt/homebrew/opt/openjdk/bin:/Library/Frameworks/Python.framework/Versions/3.12/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/opt/pmk/env/global/bin:/Library/Apple/usr/bin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/share/dotnet:~/.dotnet/tools:/usr/local/go/bin:/Users/etokiniaina/.sdkman/candidates/java/current/bin:/Users/etokiniaina/.antigravity/antigravity/bin:/Users/etokiniaina/fvm/default/bin:/Users/etokiniaina/.shorebird/bin:/Users/etokiniaina/.docker/bin:/Users/etokiniaina/.nvm/versions/node/v23.6.0/bin:/opt/homebrew/opt/ruby/bin:/opt/homebrew/opt/openjdk/bin:/Library/Frameworks/Python.framework/Versions/3.12/bin:/Users/etokiniaina/.cargo/bin:/Users/etokiniaina/.pub-cache/bin:/Users/etokiniaina/Library/Application Support/JetBrains/Toolbox/scripts:/Users/etokiniaina/.orbstack/bin:/Users/etokiniaina/.cache/lm-studio/bin:/Users/etokiniaina/.pub-cache/bin:/Users/etokiniaina/Library/Application Support/JetBrains/Toolbox/scripts:/Users/etokiniaina/.orbstack/bin:/Users/etokiniaina/.pub-cache/bin:/Users/etokiniaina/fvm/default/bin:/Users/etokiniaina/.cache/lm-studio/bin HOME=/Users/etokiniaina /Users/etokiniaina/fvm/versions/stable/bin/cache/dart-sdk/bin/dart --packages=/Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/package_config.json /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/objective_c/7ad245dadc/hook.dill --config=/Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/objective_c/7ad245dadc/input.json )`.
+INFO: 2026-04-06 00:58:17.589752: Running `/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --version`.
+
+INFO: 2026-04-06 00:58:17.713862: Running `/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --version`.
+
+INFO: 2026-04-06 00:58:17.729265: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -target arm64-apple-darwin -mmacos-version-min=13 -c /Users/etokiniaina/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/include/dart_api_dl.c -fpic -I src -o /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-04-06 00:58:17.729707: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -target arm64-apple-darwin -mmacos-version-min=13 -c /Users/etokiniaina/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c.c -fpic -I src -o /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c.c.o
+
+INFO: 2026-04-06 00:58:17.729964: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/etokiniaina/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/input_stream_adapter.m -fpic -I src -o /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-04-06 00:58:17.730176: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/etokiniaina/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/observer.m -fpic -I src -o /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/observer.m.o
+
+.m.o
+
+INFO: 2026-04-06 00:58:17.730354: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/etokiniaina/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/protocol.m -fpic -I src -o /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/protocol.m.o
+
+
+
+INFO: 2026-04-06 00:58:17.730459: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/etokiniaina/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c_bindings_generated.m -fpic -I src -o /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-04-06 00:58:17.846318: 
+INFO: 2026-04-06 00:58:17.846333: 
+INFO: 2026-04-06 00:58:17.846342: Generated /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c.c.o
+
+dl.c.o
+
+INFO: 2026-04-06 00:58:17.855058: 
+INFO: 2026-04-06 00:58:17.855103: 
+INFO: 2026-04-06 00:58:17.855115: Generated /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/observer.m.o
+INFO: 2026-04-06 00:58:17.855158: 
+INFO: 2026-04-06 00:58:17.855169: 
+INFO: 2026-04-06 00:58:17.855176: Generated /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/test/util.c.o
+
+INFO: 2026-04-06 00:58:17.857959: 
+INFO: 2026-04-06 00:58:17.857985: 
+INFO: 2026-04-06 00:58:17.857997: Generated /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/protocol.m.o
+
+INFO: 2026-04-06 00:58:18.128811: 
+INFO: 2026-04-06 00:58:18.128879: 
+INFO: 2026-04-06 00:58:18.128892: Generated /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/ns_number.m.o
+
+INFO: 2026-04-06 00:58:18.134872: 
+INFO: 2026-04-06 00:58:18.134907: 
+INFO: 2026-04-06 00:58:18.134919: Generated /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c.m.o
+
+INFO: 2026-04-06 00:58:18.136917: 
+INFO: 2026-04-06 00:58:18.136940: 
+INFO: 2026-04-06 00:58:18.136953: Generated /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-04-06 00:58:18.149882: 
+INFO: 2026-04-06 00:58:18.149905: 
+INFO: 2026-04-06 00:58:18.149915: Generated /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-04-06 00:58:18.150306: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -shared -Wl,-encryptable -undefined dynamic_lookup -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -target arm64-apple-darwin -mmacos-version-min=13 /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/include/dart_api_dl.c.o /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c.c.o /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/test/util.c.o /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/input_stream_adapter.m.o /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c.m.o /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/observer.m.o /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/ns_number.m.o /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/protocol.m.o /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c_bindings_generated.m.o -o /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/objective_c.dylib
+
+INFO: 2026-04-06 00:58:18.282587: 
+INFO: 2026-04-06 00:58:18.282664: 
+INFO: 2026-04-06 00:58:18.282679: Generated /Users/etokiniaina/IdeaProjects/flutterAdgents/flutteradgents/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/objective_c.dylib
+
